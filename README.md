@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Metrics](./metrics.svg)
+![Metrics](./github-metrics.svg)
 
 <!--
 **dadadave80/dadadave80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
