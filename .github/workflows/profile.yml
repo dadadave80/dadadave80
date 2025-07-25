@@ -2,7 +2,7 @@ name: Profile automations
 
 on:
   schedule:
-    - cron: '0 1,13 * * *'   # every 12 hours (UTC)
+    - cron: '0 */6 * * *'   # every 6 hours (UTC)
   workflow_dispatch:
 
 permissions:
@@ -59,7 +59,4 @@ jobs:
 
           # Recent posts plugin (another way of showing posts)
           plugin_posts: yes
-          plugin_posts_source: dev.to, medium, hashnode
-          plugin_posts_descriptions: yes
-          plugin_posts_covers: no
-          plugin_posts_limit: 4
+          plugin_posts_source: dev.to, hashnode
