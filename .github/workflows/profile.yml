@@ -24,6 +24,3 @@ jobs:
           
           plugin_repositories: yes
           plugin_repositories_pinned: 2
-          
-          plugin_discussions: yes
-          plugin_discussions_categories_limit: 8
