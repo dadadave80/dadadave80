@@ -1223,12 +1223,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#6 Feat/ticket-marketplace</span>
+                                        <span class="issue">#7 Chore/rename-host-it-to-ticket</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">hostit-events/ticket</span></div>
-                                    <div>16 files changed <span class="code">++278 --43</span></div>
+                                    <div>20 files changed <span class="code">++78 --73</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1240,12 +1240,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#6 Feat/ticket-marketplace</span>
+                                        <span class="issue">#7 Chore/rename-host-it-to-ticket</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">hostit-events/ticket</span></div>
-                                    <div>16 files changed <span class="code">++278 --43</span></div>
+                                    <div>20 files changed <span class="code">++78 --73</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1258,7 +1258,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">feat/ticket-marketplace</span>
+                                        <span class="code">chore/rename-host-it-to-ticket</span>
                                         in
                                         <span class="repo">hostit-events/ticket</span>
                                     </div>
@@ -1273,12 +1273,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#5 Feat/ticket-checkin</span>
+                                        <span class="issue">#6 Feat/ticket-marketplace</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">hostit-events/ticket</span></div>
-                                    <div>18 files changed <span class="code">++403 --153</span></div>
+                                    <div>16 files changed <span class="code">++278 --43</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1290,12 +1290,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#5 Feat/ticket-checkin</span>
+                                        <span class="issue">#6 Feat/ticket-marketplace</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">hostit-events/ticket</span></div>
-                                    <div>18 files changed <span class="code">++403 --153</span></div>
+                                    <div>16 files changed <span class="code">++278 --43</span></div>
                                 </div>
                             </section>
                         </div>
