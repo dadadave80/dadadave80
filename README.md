@@ -1,6 +1,6 @@
 ## Hi, I'm David Dada 👋
 
-Smart contract engineer — I build on-chain systems in **Solidity**, **Rust**, and **Cairo**.
+Smart contract engineer — I build on-chain systems in **Solidity**, **Rust**, **Cairo**, and **Move**.
 
 - 🔭 **Working on:** modular contract architecture (EIP-2535 Diamonds) and account abstraction (EIP-4337 / EIP-7702)
 - 🦄 **Into:** Uniswap v4 hooks, Arbitrum Stylus, and zero-knowledge (SP1, Starknet)
