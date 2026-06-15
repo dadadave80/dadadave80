@@ -20,7 +20,7 @@ jobs:
           plugin_music_provider: lastfm
           plugin_music_mode: top
           plugin_music_top_type: tracks
-          plugin_music_time_range: short      # lastfm: short=1mo, medium=6mo, long=all-time
+          plugin_music_time_range: long       # all-time top tracks (no scrobbles since 2021)
           plugin_music_user: dadadave80
           plugin_music_token: ${{ secrets.LASTFM_TOKEN }}
           plugin_music_limit: 4
