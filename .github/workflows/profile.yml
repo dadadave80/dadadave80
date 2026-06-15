@@ -15,9 +15,9 @@ jobs:
 
           base: ""
           plugin_isocalendar: yes
-          plugin_gists: yes
 
-          plugin_music: yes
+          # Spotify top/recent need the app owner on Premium (403 on Free) — disabled pending provider choice
+          plugin_music: no
           plugin_music_provider: spotify
           plugin_music_mode: top
           plugin_music_top_type: tracks
